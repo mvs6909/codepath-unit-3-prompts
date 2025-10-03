@@ -1,0 +1,1 @@
+You are tasked with helping me with a feature tracing for adding an optional `name` field to the profile and show an option in the UI.
